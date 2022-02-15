@@ -4,11 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import seeSharpGuide from './components/seeSharpGuide';
+import SeeSharpGuide from './components/SeeSharpGuide';
 
 ReactDOM.render(
   <React.StrictMode>
-    <seeSharpGuide />
+    <SeeSharpGuide />
   </React.StrictMode>,
   document.getElementById('root')
 );
