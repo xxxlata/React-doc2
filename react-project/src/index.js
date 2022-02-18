@@ -9,6 +9,7 @@ import SeeSharpGuide from './components/SeeSharpGuide';
 ReactDOM.render(
   <React.StrictMode>
     <SeeSharpGuide />
+    <App></App>
   </React.StrictMode>,
   document.getElementById('root')
 );
